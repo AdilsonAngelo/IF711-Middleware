@@ -12,6 +12,7 @@ numpy = "*"
 pandas = "*"
 ipython = "*"
 matplotlib = "*"
+click = "*"
 
 [requires]
 python_version = "3.7"
